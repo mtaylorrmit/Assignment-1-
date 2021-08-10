@@ -14,7 +14,12 @@ display:block;
 html, body {background: #2D353D; font-family: "Comic Sans MS", "Comic Sans", cursive; font-size: 16px; color: #CA07E1;}
 
 .clear {clear: both;}
+a {font-family: 'Copperplate', comic sans ms, papyrus, fantasy;
+	font-style: normal;
+	font-size: 1em;
+	color: E1E500;
 
+}
 p {
 	font-size: 1em;
 	line-height: 1.4em;

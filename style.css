@@ -13,20 +13,20 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #2D353D; font-family: "Verdana", Arial; sans-serif; font-size: 16px; color: #CA07E1;}
+html, body {background: #2D353D; font-family: "Verdana", Arial; sans-serif; font-size: 16px; color: #d2691e;}
 
 .clear {clear: both;}
 a {font-family: "Verdana", Arial; sans-serif;
 	font-style: normal;
 	font-size: 1em;
-	color: #E1E500;
+	color: #daa520;
 
 }
 p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
-	color: #00FF00;
+	color: #fffafa;
 }
 
 ul {
@@ -35,14 +35,14 @@ ul {
 
 li::before {
   content: "• ";
-  color: #00FF00;
+  color: #fffafa;
 }
-li{color: #00FF00;}
+li{color: #fffafa;}
 
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #2D353D;
+	background: #2D353;
 	margin: 30px auto;
 }
 
@@ -98,11 +98,11 @@ li{color: #00FF00;}
 
 #contactDetails ul li {
 	margin-bottom: 3px;
-	color: #9EB602;
+	color: #daa520;
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #9EB602;
+	color: #daa520;
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -112,7 +112,7 @@ li{color: #00FF00;}
 }
 
 #contactDetails ul li a:hover {
-	color: #6FFFE9;
+	color: #daa520;
 }
 
 
@@ -143,7 +143,7 @@ section:last-child {
 	font-family: "Verdana", Arial; sans-serif;
 	font-style: normal;
 	font-size: 1.5em;
-	color: #F5E70B;
+	color: #800000;
 }
 
 .sectionTitle img {

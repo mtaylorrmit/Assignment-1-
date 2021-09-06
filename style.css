@@ -13,10 +13,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #2D353D; font-family: "Comic Sans MS", "Comic Sans", cursive; font-size: 16px; color: #CA07E1;}
+html, body {background: #2D353D; font-family: "Verdana", Arial; sans-serif; font-size: 16px; color: #CA07E1;}
 
 .clear {clear: both;}
-a {font-family: 'Copperplate', comic sans ms, papyrus, fantasy;
+a {font-family: "Verdana", Arial; sans-serif;
 	font-style: normal;
 	font-size: 1em;
 	color: #E1E500;
@@ -55,14 +55,14 @@ li{color: #00FF00;}
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
-	font-family: 'Blippo',Luminari, Papyrus, fantasy;
+	font-family: "Verdana", Arial; sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
 	font-size: 2em;
 	margin-left: 2px;
-	font-family: 'Papyrus', Luminari, Blippo, fantasy;
+	font-family: "Verdana", Arial; sans-serif;
 }
 
 #mainArea {
@@ -140,7 +140,7 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Copperplate', comic sans ms, papyrus, fantasy;
+	font-family: "Verdana", Arial; sans-serif;
 	font-style: normal;
 	font-size: 1.5em;
 	color: #F5E70B;
@@ -151,13 +151,13 @@ section:last-child {
 }
 
 .sectionContent h2 {
-	font-family: 'Chalkduster', Copperplate, fantasy;
+	font-family: "Verdana", Arial; sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
 
 .sectionContent h3 {
-	font-family: 'Arial', Helvetica, Veranda, sans-serif;
+	font-family: "Verdana", Arial; sans-serif;
 	font-style: italic;
 	font-size: 1.1em;
 	margin-bottom: -2px;
